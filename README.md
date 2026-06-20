@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 ## Array
@@ -37,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
