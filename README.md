@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
