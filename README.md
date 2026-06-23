@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+| [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,5 +69,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
