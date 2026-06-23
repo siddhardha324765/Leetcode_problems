@@ -9,9 +9,9 @@ public:
     if(ind ==s.size()){
          return form && !start;
     }
-    // if(!form){
-    //     return 0;
-    // }
+    if(!form){
+        return 0;
+    }
     if( dp[ind][pre][tight][start][form] != -1){
         return dp[ind][pre][tight][start][form];
     }
