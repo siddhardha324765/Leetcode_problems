@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2801-count-stepping-numbers-in-range/) | Hard |
