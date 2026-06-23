@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0149-max-points-on-a-line/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
