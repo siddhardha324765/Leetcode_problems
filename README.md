@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
@@ -88,19 +89,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
