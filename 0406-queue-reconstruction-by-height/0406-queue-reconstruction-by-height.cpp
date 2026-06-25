@@ -1,7 +1,7 @@
 class Solution {
 public:
  // sorting technique
-bool static com(vector<int> p1, vector<int> p2){
+bool static com(vector<int>&p1, vector<int>&p2){
      return p1[0] > p2[0] || (p1[0] == p2[0] && p1[1] < p2[1]);
 }
     vector<vector<int>> reconstructQueue(vector<vector<int>>& people) {
