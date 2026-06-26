@@ -5,21 +5,17 @@ class segment{
     segment(int m){
         seg.resize(m*4 +1);
     }
-    void update(int ind,int s,int e,int val,bool flag){
+    void update(int ind,int s,int e,int val){
         if(s==e){
-            if(flag ==1){
-            seg[ind]++;}
-            else{
-                seg[ind]--;
-            }
+            seg[ind]++;
             return ;
         }
         int mid = (s+e)/2;
         if(val<=mid){
-            update(ind*2 +1,s,mid,val,flag);
+            update(ind*2 +1,s,mid,val);
         }
         else{
-            update(ind*2 +2,mid+1,e,val,flag);
+            update(ind*2 +2,mid+1,e,val);
         }
         seg[ind] = seg[ind*2 +1] + seg[ind*2 +2];
     }
@@ -45,28 +41,20 @@ public:
        vector<long long>con;
       for(int i=0;i<pre.size();i++){
         con.push_back(pre[i]);
-          con.push_back(pre[i]+upper);
-            con.push_back(pre[i]+lower -1);
       }
       sort(con.begin(),con.end());
       con.erase(unique(con.begin(),con.end()),con.end());
       int m =con.size();
       segment s(m);
       int ans = 0;
-      
       for(int i=0;i<pre.size();i++){
-       int  ind = lower_bound(con.begin(),con.end(),pre[i]) - con.begin();
-        s.update(0,0,m-1,ind,1);
-      }
-
-      for(int i=0;i<pre.size();i++){
-        int  ind = lower_bound(con.begin(),con.end(),pre[i]) - con.begin();
-        s.update(0,0,m-1,ind,0);
-        ind = lower_bound(con.begin(),con.end(),pre[i]+upper) - con.begin();
-        long long r = s.query(0,0,m-1,0,ind);
-        ind = lower_bound(con.begin(),con.end(),pre[i]+lower -1) - con.begin();
-        long long l= s.query(0,0,m-1,0,ind);
-        ans += (r-l);
+        int r = lower_bound(con.begin(),con.end(),pre[i]-upper) - con.begin();
+        int l= upper_bound(con.begin(),con.end(),pre[i]-lower ) - con.begin()-1;
+        if(r<=l){
+        ans += s.query(0,0,m-1,r,l);
+        }
+        int ind = lower_bound(con.begin(),con.end(),pre[i]) - con.begin();
+        s.update(0,0,m-1,ind);
       }
       return ans;
     }
