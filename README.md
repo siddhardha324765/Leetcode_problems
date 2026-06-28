@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
