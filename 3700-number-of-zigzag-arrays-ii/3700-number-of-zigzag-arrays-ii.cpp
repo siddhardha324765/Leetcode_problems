@@ -23,10 +23,10 @@ public:
     vector<long long> multiplyVector(vector<long long>& V,vector<vector<long long>>& A){
         int sz = V.size();
         vector<long long> C(sz, 0);
-        for (int i = 0; i < sz; i++) {
+        for (int i = 0; i < sz; i++){
             if (V[i] == 0) continue;
             long long cur = V[i];
-            for (int j = 0; j < sz; j++) {
+            for (int j = 0; j < sz; j++){
                 if (A[i][j] == 0) continue;
                 C[j] = (C[j] + cur * A[i][j]) % MOD;
             }
@@ -34,30 +34,31 @@ public:
         return C;
     }
 
-    int zigZagArrays(int n, int l, int r) {
+    int zigZagArrays(int n, int l, int r){
         int m = r - l + 1;
         int sz = 2 * m;
-        vector<vector<long long>> T(sz, vector<long long>(sz, 0));
+        vector<vector<long long>>T(sz,vector<long long>(sz, 0));
         for (int x = 0; x < m; x++) {
-            for (int y = x + 1; y < m; y++)
+            for (int y = x + 1; y < m; y++){
                 T[x][m + y] = 1;
-
-            for (int y = 0; y < x; y++)
+            }
+            for (int y = 0; y < x; y++){
                 T[m + x][y] = 1;
+            }
         }
-        vector<long long> result(sz, 1);
+        vector<long long>result(sz, 1);
         long long power = n - 1;
-        while (power > 0) {
-            if (power & 1)
+        while(power > 0){
+            if(power%2==1){
                 result = multiplyVector(result, T);
-
+            }
             T = multiplyMatrix(T, T);
             power/=2;
         }
         long long answer = 0;
-        for (long long x : result)
+        for(long long x : result){
             answer = (answer + x) % MOD;
-
+        }
         return answer;
     }
 };
