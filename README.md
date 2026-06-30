@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2801-count-stepping-numbers-in-range/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
