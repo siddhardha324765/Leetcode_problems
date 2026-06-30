@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-// ind = 17 , tight = 0|1 , start = 0|1 , pre = 0 to 10 , end = 0 to 2 , wave = 0 to 15
+// ind = 17 , tight = 0|1 , start = 0|1 , pre = 0 to 10 , end = 0 to 2 , wave = 0 to 16
 
  
    long long dp[17][2][2][11][3][17];
