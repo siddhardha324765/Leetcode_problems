@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
