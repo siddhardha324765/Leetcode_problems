@@ -9,7 +9,10 @@ public:
      while(!pq.empty()){
          auto [total, node] = pq.top();
          pq.pop();
-         if(total>k){
+         if(total>k ){
+            return 0;
+         }
+         if(total > dis[node]){
             continue;
          }
          if(node == online.size()-1){
