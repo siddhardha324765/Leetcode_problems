@@ -3,48 +3,53 @@ public:
 
     int maxi;
     int mod = 1000000007;
-    int dp1[100][100][1801];
-
-   int check(int x,int y,int score , vector<string>& board){
+    int dp1[100][100];
+    int dp[100][100];
+   int check(int x,int y, vector<string>& board){
     if(x==0 and y==0){
-        if(score == maxi){
-            return 1;
-        }
-        return 0;
+        return 1;
     }
-    if(dp1[x][y][score] != -1){
-        return dp1[x][y][score];
-    }
-    int score1 = (9*(x+1)) + (9*y) -9;
-    if(score1<maxi - score){
-        return 0;
+    if(dp1[x][y] != -1){
+        return dp1[x][y];
     }
     long long ans=0;
     if(y-1>=0 and board[x][y-1]!='X'){
          if(board[x][y-1]=='E'){
-            ans = (ans+check(x,y-1,score,board))%mod;
+            if(dp[x][y-1]==dp[x][y]){
+            ans = (ans+check(x,y-1,board))%mod;
+            }
          }
          else{
-            ans = (ans+check(x,y-1,score + (board[x][y-1]-'0'),board))%mod;
+            if(dp[x][y-1]==dp[x][y]+(board[x][y-1]-'0')){
+            ans = (ans+check(x,y-1,board))%mod;
+            }
          }
     }
     if(x-1>=0 and board[x-1][y]!='X'){
         if(board[x-1][y]=='E'){
-            ans= (ans+check(x-1,y,score,board))%mod;
+            if(dp[x-1][y]==dp[x][y]){
+            ans= (ans+check(x-1,y,board))%mod;
+            }
         }
         else{
-            ans = (ans+check(x-1,y,score+ (board[x-1][y]-'0'),board))%mod;
+            if(dp[x-1][y]==dp[x][y]+(board[x-1][y]-'0')){
+            ans = (ans+check(x-1,y,board))%mod;
+            }
         }
     }
     if(x-1>=0 and y-1>=0 and board[x-1][y-1]!='X'){
            if(board[x-1][y-1]=='E'){
-            ans= (ans+check(x-1,y-1,score,board))%mod;
+            if(dp[x-1][y-1]==dp[x][y]){
+            ans= (ans+check(x-1,y-1,board))%mod;
+            }
         }
         else{
-            ans = (ans+check(x-1,y-1,score+ (board[x-1][y-1]-'0'),board))%mod;
+            if(dp[x-1][y-1]==dp[x][y]+(board[x-1][y-1]-'0')){
+            ans = (ans+check(x-1,y-1,board))%mod;
+            }
         }
     }
-    return dp1[x][y][score] = ans%mod;
+    return dp1[x][y] = ans%mod;
    }
 
 
@@ -52,7 +57,7 @@ public:
     vector<int> pathsWithMaxScore(vector<string>& board) {
         int n = board.size();
         int  m = board[0].size();
-        vector<vector<int>>dp(n,vector<int>(m,INT_MIN));
+        memset(dp,INT_MIN,sizeof(dp));
         dp[n-1][m-1] =0;
         priority_queue<pair<int,pair<int,int>>>pq;
         pq.push({0,{n-1,m-1}});
@@ -103,7 +108,7 @@ public:
         }
         maxi =dp[0][0];
         memset(dp1,-1,sizeof(dp1));
-        check(n-1,m-1,0,board);
-        return {maxi,dp1[n-1][m-1][0]%mod};
+        check(n-1,m-1,board);
+        return {maxi,dp1[n-1][m-1]%mod};
     }
 };
