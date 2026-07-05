@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0327-count-of-range-sum/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2801-count-stepping-numbers-in-range/) | Hard |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
