@@ -15,6 +15,10 @@ public:
     if(dp1[x][y][score] != -1){
         return dp1[x][y][score];
     }
+    int score1 = (9*(x+1)) + (9*y) -9;
+    if(score1<maxi - score){
+        return 0;
+    }
     long long ans=0;
     if(y-1>=0 and board[x][y-1]!='X'){
          if(board[x][y-1]=='E'){
