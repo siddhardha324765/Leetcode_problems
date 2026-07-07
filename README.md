@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Ordered Set
