@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2801-count-stepping-numbers-in-range](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2801-count-stepping-numbers-in-range/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
