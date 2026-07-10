@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
@@ -230,4 +232,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
