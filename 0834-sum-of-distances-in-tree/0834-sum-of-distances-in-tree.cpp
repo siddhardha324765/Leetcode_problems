@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-     void dfs(int node,vector<pair<int,int>>&down,vector<int>&dp,vector<vector<int>>&adj,vector<bool>&flag){
+     void dfs(int node,vector<pair<int,int>>&down,vector<vector<int>>&adj,vector<bool>&flag){
         if(adj[node].size()==1 and flag[adj[node][0]]==1){
              down[node] = {0,1};
              return ;
@@ -9,13 +9,12 @@ public:
         for(int i=0;i<adj[node].size();i++){
             if(!flag[adj[node][i]]){
                 flag[adj[node][i]]  = true;
-            dfs(adj[node][i],down,dp,adj,flag);
+            dfs(adj[node][i],down,adj,flag);
             down[node].first+=(down[adj[node][i]].first + down[adj[node][i]].second);
             down[node].second+=down[adj[node][i]].second;
             }
         }
         down[node].second++;
-        dp[node] = down[node].first;
      }
 
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
@@ -28,15 +27,13 @@ public:
         }
         vector<int>up(n);
         vector<pair<int,int>>down(n);
-        vector<int>dp(n);
         vector<bool>flag(n);
-        //down_node , ans , nodes
         flag[0] = true;
-        dfs(0,down,dp,adj,flag);
-     //   cout<<dp[0]<<" ";
-        up[0]=dp[0];
+        dfs(0,down,adj,flag);
+  
+        up[0]=down[0].first;
         for(int i=0;i<n;i++){
-           // cout<<down[i].first<<" "<<down[i].second<<endl;
+          
             flag[i] = false;
         }
         flag[0]= true;
