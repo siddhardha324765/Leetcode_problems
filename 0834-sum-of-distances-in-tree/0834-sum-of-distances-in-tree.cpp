@@ -12,6 +12,7 @@ public:
             dfs(adj[node][i],down,adj,flag);
             down[node].first+=(down[adj[node][i]].first + down[adj[node][i]].second);
             down[node].second+=down[adj[node][i]].second;
+            flag[adj[node][i]]  = false;
             }
         }
         down[node].second++;
@@ -32,11 +33,6 @@ public:
         dfs(0,down,adj,flag);
   
         up[0]=down[0].first;
-        for(int i=0;i<n;i++){
-          
-            flag[i] = false;
-        }
-        flag[0]= true;
         queue<pair<int,int>>q;
         for(int i=0;i<adj[0].size();i++){
             flag[adj[0][i]] = true;
