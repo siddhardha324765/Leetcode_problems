@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0834-sum-of-distances-in-tree](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
