@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1706-where-will-the-ball-fall](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1706-where-will-the-ball-fall](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -259,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1706-where-will-the-ball-fall](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 <!---LeetCode Topics End-->
