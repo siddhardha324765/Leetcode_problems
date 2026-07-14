@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-count-number-of-teams](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [2376-count-special-integers](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2376-count-special-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2801-count-stepping-numbers-in-range/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0968-binary-tree-cameras](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0968-binary-tree-cameras/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
