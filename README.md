@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3281-maximize-score-of-numbers-in-ranges/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3281-maximize-score-of-numbers-in-ranges/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3281-maximize-score-of-numbers-in-ranges/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1649-create-sorted-array-through-instructions](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3281-maximize-score-of-numbers-in-ranges/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
