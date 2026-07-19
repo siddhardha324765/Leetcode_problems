@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -72,11 +73,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/siddhardha324765/Leetcode_problems/tree/main/3281-maximize-score-of-numbers-in-ranges/) | Medium |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddhardha324765/Leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/siddhardha324765/Leetcode_problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
